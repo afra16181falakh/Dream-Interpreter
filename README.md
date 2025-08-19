@@ -1,8 +1,8 @@
-# ✨ DreamBot Streamlit App - Your Gen Z Dream Interpreter
+#  DreamBot Streamlit App - Your Gen Z Dream Interpreter
 
 A modern, interactive web application for dream interpretation with a Gen Z personality, built with Streamlit and Google Generative AI.
 
-## 🌟 Features
+##  Features
 
 - **Interactive Chat Interface**: Modern chat-style dream interpretation
 - **Gen Z Personality**: Casual, emoji-filled responses with current slang
@@ -11,7 +11,7 @@ A modern, interactive web application for dream interpretation with a Gen Z pers
 - **Chat History**: Keep track of your dream sessions
 - **Easy Deployment**: Ready for Streamlit Cloud
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Local Development
 
@@ -56,7 +56,7 @@ A modern, interactive web application for dream interpretation with a Gen Z pers
    - Select `streamlit_app.py` as the main file
    - Add your `GOOGLE_API_KEY` in the secrets
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -74,14 +74,14 @@ For Streamlit Cloud deployment, add these to your app secrets:
 GOOGLE_API_KEY = "your_google_api_key_here"
 ```
 
-## 📱 Usage
+##  Usage
 
 1. **Describe your dream** in the text area
 2. **Click "Decode My Dream"** to get interpretation
 3. **Read the Gen Z-style response** with emojis and slang
 4. **Continue the conversation** or start fresh
 
-## 🎨 Customization
+##  Customization
 
 ### Personality Settings
 
@@ -94,20 +94,20 @@ GOOGLE_API_KEY = "your_google_api_key_here"
 - Edit `ui_components.py` for custom CSS
 - Modify `dream_interpreter.py` for different AI personalities
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend**: Streamlit
 - **AI**: Google Generative AI (Gemini 1.5 Flash)
 - **Styling**: Custom CSS with gradients
 - **Deployment**: Streamlit Cloud ready
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.7+
 - Google Generative AI API key
 - Streamlit account (for cloud deployment)
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -115,11 +115,8 @@ GOOGLE_API_KEY = "your_google_api_key_here"
 4. Test locally
 5. Submit a pull request
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🌈 Support
+##  Support
 
 Having issues? Open an issue on GitHub or reach out for help!
 
